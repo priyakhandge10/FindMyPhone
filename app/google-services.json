@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30927689345",
+    "firebase_url": "https://findmyphone-67ab5.firebaseio.com",
+    "project_id": "findmyphone-67ab5",
+    "storage_bucket": "findmyphone-67ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30927689345:android:72e8bcfe0f41af2d64df80",
+        "android_client_info": {
+          "package_name": "com.example.findmyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30927689345-kqu2o9p8b9gvilmj7bpjgieb6csh15mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwC2XTIHE1DvU0hCgf-x1nj-dSmQovpik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30927689345-kqu2o9p8b9gvilmj7bpjgieb6csh15mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
